@@ -1,6 +1,10 @@
-# README — GRC103 Technical Risk Treatment Lab
+# INTERNATIONAL CYBERSECURITY AND DIGITAL FORENSICS ACADEMY (ICDFA)
 
-## Implementing and Validating Security Controls on a Local Linux Server
+## Governance, Compliance, and Risk (GCR)
+
+### GRC103 Technical Risk Treatment Lab
+
+# Lab 3b: ## Implementing and Validating Security Controls on a Local Linux Server
 
 ---
 
