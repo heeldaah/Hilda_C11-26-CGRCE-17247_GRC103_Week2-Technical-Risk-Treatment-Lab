@@ -99,7 +99,7 @@ The folder names above are the **recommended repository layout**. The evidence w
 | [Hilda_C11-26-CGRCE-17247_GRC103_Wk3_Technical_Risk_Treatment_Report](https://github.com/heeldaah/Hilda_C11-26-CGRCE-17247_GRC103_Week2-Technical-Risk-Treatment-Lab/blob/main/Hilda_C11-26-CGRCE-17247_GRC103_Wk3_Technical_Risk_Treatment_Report.pdf) | Technical risk treatment report documenting the lab implementation, control validation, risk assessment and treatment decisions. |
 | [Hilda_C11-26-CGRCE-17247_GRC103_Wk3_Risk_Register_and_Cost_Analysis](https://github.com/heeldaah/Hilda_C11-26-CGRCE-17247_GRC103_Week2-Technical-Risk-Treatment-Lab/blob/main/Hilda_C11-26-CGRCE-17247_GRC103_Wk3_Risk_Register_and_Cost_Analysis.xlsx) | Risk register, treatment strategies, residual risk ratings and cost-benefit analysis. |
 | [GRC-Evidence-Transfer](https://github.com/heeldaah/Hilda_C11-26-CGRCE-17247_GRC103_Week2-Technical-Risk-Treatment-Lab/tree/main/GRC-Evidence-Transfer) | Folder containing the practical lab evidence and supporting files. |
-| `evidence/` | Text evidence collected during the practical |
+| [Evidence.md](https://github.com/heeldaah/Hilda_C11-26-CGRCE-17247_GRC103_Week2-Technical-Risk-Treatment-Lab/blob/main/evidence-index.md) | Text evidence collected during the practical |
 
 > **Do not upload** passwords, private keys, VM disk images, or real personal or confidential data. The evidence ZIP is currently a separate archive on the Kali VM and must be transferred to the host computer before it can be added to GitHub.
 
